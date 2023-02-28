@@ -4,7 +4,7 @@ import svg1 from "./img/icons/Frame.svg";
 import svg2 from "./img/icons/Frame.svg";
 import svg3 from "./img/icons/Vector (1).svg";
 import svg4 from "./img/icons/Vector (3).svg";
-import logo from "./img/lws-logo.svg";
+import logo from "./img/clipboard_vectorized.png";
 import { useDispatch, useSelector } from "react-redux";
 import { book } from "../redux/flight/actions";
 import RowComponent from "./RowComponent";
